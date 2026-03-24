@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./venv/Scripts/chat_app",
+        "./venv/Scripts"
+    ]
+}
